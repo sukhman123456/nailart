@@ -1,0 +1,3 @@
+- [x] Build premium editorial studio showcase and navigation.
+- [x] Include nail work, services, craftsmanship, courses, reviews and contact.
+- [x] Verify responsive presentation and interactions.
